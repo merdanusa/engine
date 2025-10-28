@@ -143,7 +143,7 @@ For science/math queries:
 ## 🧑‍💻 Author
 
 **Merdan** — Full-stack developer passionate about AI, React, and backend systems.
-💬 Telegram: `@SBP31Bot`
+💬 Telegram: `@merdanusa`
 🌐 Project type: _Client/Engine module_
 
 ---
