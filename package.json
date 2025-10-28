@@ -1,0 +1,23 @@
+{
+  "name": "engine",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/merdanusa/engine#readme",
+  "bugs": {
+    "url": "https://github.com/merdanusa/engine/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/merdanusa/engine.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "engine.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.3"
+  }
+}
