@@ -40,11 +40,3 @@ export default async function engine(prompt) {
     return "Error generating content.";
   }
 }
-
-(async () => {
-  console.log("--- Generating Streamed Response ---");
-  const result = await engine(
-    "Write a very short, friendly greeting and ask about my day."
-  );
-  console.log("--- Stream Complete ---");
-})();
